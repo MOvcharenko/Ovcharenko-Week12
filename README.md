@@ -7,6 +7,6 @@ WORKFLOW - contains the workflow diagram.
 Screenshots/ - contains the screenshots, split into structure and output ones, where:
 - Apha - the first, simplest version, which had a few issues.
 - Beta - the second, improved with tools. Produced the first successful result.
-
+- Final - the final version, containing a more proffesional flow utilizing a router.
 
 Prompts/ - contains the prompt for the agent, as well as other structural text.
