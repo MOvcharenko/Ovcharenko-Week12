@@ -10,3 +10,5 @@ Screenshots/ - contains the screenshots, split into structure and output ones, w
 - Final - the final version, containing a more proffesional flow utilizing a router.
 
 Prompts/ - contains the prompt for the agent, as well as other structural text.
+
+Video Presentation - presented in class.
